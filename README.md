@@ -350,10 +350,10 @@ Marketplace manifest search order:
 copilot plugin marketplace add contoso/copilot-enterprise-toolkit
 ```
 
-### Option B: Any Git URL (Azure DevOps, GitLab, etc.)
+### Option B: Any Git URL (Azure DevOps, etc.)
 ```bash
 copilot plugin marketplace add https://dev.azure.com/contoso/copilot-plugins/_git/marketplace
-copilot plugin marketplace add https://gitlab.com/contoso/copilot-plugins.git
+
 ```
 
 ### Option C: Local / Shared Network Path (Air-gapped / on-prem)
